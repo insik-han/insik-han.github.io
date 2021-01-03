@@ -16,7 +16,7 @@
 title: insik-han's blog
 name: insik-han
 description: This blog is insik-han's blog
-baseurl: "https://insik-han.github.io/" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 github_username:  insik-han
 
 # jekyll-paginate configuration
